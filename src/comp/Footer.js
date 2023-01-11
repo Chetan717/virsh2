@@ -47,7 +47,7 @@ export default function Footer() {
 </div>
 
 
-      <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
+      <div class="max-w-screen-2xl px-4 md:px-8 mx-auto relative lg:left-[100px]">
         <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 lg:grid-rows-2 border-t gap-12 lg:gap-8 pt-10 lg:pt-12">
           <div class="col-span-full lg:col-span-1 lg:row-span-2">
          
