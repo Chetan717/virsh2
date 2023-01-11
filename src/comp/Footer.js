@@ -16,7 +16,7 @@ export default function Footer() {
 
 
     
-    <footer data-aos="fade-up" class="bg-white pt-4 pb-10 sm:py-10 relative lg:bottom-[700px] bottom-[500px] lg:py-12 lg:left-[0px] left-[0px]">
+    <footer data-aos="fade-up" class="bg-white pt-4 pb-10 sm:py-10 relative lg:bottom-[700px] bottom-[500px] lg:py-12 lg:left-[0px] lg:left-[110px]">
 
     
     <div class="flex flex-col items-center border-t pt-6 relative bottom-[20px] ">
